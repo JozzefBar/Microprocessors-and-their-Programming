@@ -1,2 +1,3 @@
 # Microprocessors-and-their-Programming
-All codes from Microprocessors and their Programming - 3. semester STU FEI
+Only codes - everything was done in Code::Blocks with the module MSP430 and other added parts.
+
